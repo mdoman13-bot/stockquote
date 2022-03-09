@@ -54,7 +54,7 @@ import csv
 import dateutil.parser
 import json
 import optparse
-import urllib, urllib2
+import urllib, urllib3
 
 
 CODES_YAHOO = {
