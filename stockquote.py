@@ -1,6 +1,7 @@
 #!/usr/bin/env python
 # -*- coding: utf-8 -*-
-
+import stockquote, os
+import dateutil as dateutil
 """Gets stock quotes from Yahoo and Google Finance, and historical prices from
 Yahoo Finance.
 
